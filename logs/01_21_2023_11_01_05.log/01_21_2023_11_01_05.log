@@ -1,9 +1,0 @@
-2023-01-21 11:01:05,938 19 root INFO Reading Data From Database: aps and collection: sensor
-2023-01-21 11:01:10,206 21 root INFO found columns:Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
-       'af_000', 'ag_000', 'ag_001',
-       ...
-       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
-       'ee_009', 'ef_000', 'eg_000'],
-      dtype='object', length=172)
-2023-01-21 11:01:10,207 23 root INFO droping column '_id' from DataFrame
-2023-01-21 11:01:10,523 25 root INFO Rows and Columns in df:(36188, 171)
